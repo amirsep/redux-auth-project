@@ -1,4 +1,3 @@
-# Getting Started with Create React App
 
 # Live
 https://tourmaline-kleicha-240727.netlify.app/
