@@ -33,6 +33,8 @@ const Counter = () => {
         <button onClick={decrementHandler}>Decrement</button>
       </div>
       <button onClick={toggleCounterHandler}>Toggle Counter</button>
+
+         <div>  Made by ❤️ - Mohammad Amir | Frontend Developer </div>
     </main>
   );
 };
